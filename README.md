@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<!--
-**windysavage/windysavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+My name is windysavage (Jih-Hung Hung) and I'm a data scientist. I'm from Taiwan, living in Taipei and currently working at CTBC bank. You can find me on [![LinkedIn][3.2]][3], or on Instagram.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
