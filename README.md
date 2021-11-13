@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is windysavage (Jih-Hung Hung) and I'm a data scientist. I'm from Taiwan, living in Taipei and currently working at CTBC bank. You can find me on [![LinkedIn][3.2]][3], or on Instagram.
+My name is windysavage (Jih-Hung Hung) and I'm a data scientist. I'm from Taiwan, living in Taipei and currently working at CTBC bank. You can find me on [LinkedIn][3], or on [Instagram][1].
 
 Here are some ideas to get you started:
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/rih_hong_food/
+[2]: https://github.com/windysavage
+[3]: https://www.linkedin.com/in/jih-hung-huang-bb78b0b9/
 
 
 <!-- Resources -->
