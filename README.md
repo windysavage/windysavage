@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is windysavage (Jih-Hung Hung) and I'm a data scientist. I'm from Taiwan, living in Taipei and currently working at CTBC bank. You can find me on <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>, or on Instagram.
+My name is windysavage (Jih-Hung Hung) and I'm a data scientist. I'm from Taiwan, living in Taipei and currently working at CTBC bank. You can find me on [![LinkedIn][3.2]][3], or on Instagram.
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
